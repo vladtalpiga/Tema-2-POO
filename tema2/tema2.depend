@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650045075 source:c:\users\vlad\desktop\tema 2 poo\tema2\main.cpp
+	<iostream>
+	<vector>
+	<typeinfo>
+
